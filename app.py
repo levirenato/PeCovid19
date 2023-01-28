@@ -15,6 +15,7 @@ css = "assets/styles.css"
 main_card_color = "#f0f5fa"
 # app start
 app = Dash(__name__, external_stylesheets=[css, dbc.themes.MORPH])
+app.title = "PeCovid19"
 server = app.server
 
 # layout
@@ -30,7 +31,7 @@ app.layout = html.Div([
                 end_date=df.dt_notificacao.max(),
                 start_date=df.dt_notificacao.min(),
                 style={"text-color": "midnightblue"}
-            )], brand="EstatisticasCovidPE",
+            )], brand="PeCovid19",
         className="sidebar_style"),
 
     # DIV TELA PRICIPAL
