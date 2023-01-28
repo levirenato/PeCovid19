@@ -1,0 +1,7 @@
+venv
+.venv
+*.pyc
+.DS_Store
+.env
+.idea
+makedata.py

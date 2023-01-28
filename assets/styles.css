@@ -1,0 +1,29 @@
+:root {
+    --primary-color:#010760;
+    --secondary-color:#ffff;
+}
+.div-tela{
+    padding: 2%;
+    padding-top: 0 ;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+.div-direita{
+     height: 84vh;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.card-body{
+   width: 100%;
+    font-size: 18px;
+}
+.bottom-div{
+    padding-top: 1%;
+}
+.graf_card{
+    background: #f0f5fa;
+    border-radius: 5px;
+}
