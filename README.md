@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  Usando dados publicos disponibilizados pelo governo de Pernambuco, FOi feito um DashBoard com dados do covid-19, desde 2020 até 2022. 
+  Usando dados publicos disponibilizados pelo governo de Pernambuco, Foi feito um DashBoard com dados do covid-19, desde 2020 até 2022. 
   O numero de casos confirmados, recuperados e de óbitos sintetizados em gráficos que mostram os dados cruzados por faixa etária e por Sexo
 </tr>
 </table>
