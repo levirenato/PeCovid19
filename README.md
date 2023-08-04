@@ -9,7 +9,7 @@
 
 
 ## Demo
-Aqui uma demonstração do site :  https://pecovid19-production.up.railway.app/
+**Demonstração desativada**
 
 
 ## Site
